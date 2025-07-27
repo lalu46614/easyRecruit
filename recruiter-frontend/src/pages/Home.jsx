@@ -17,7 +17,7 @@ export default function Home() {
         margin: 'auto'
       }}>
         Smarter Hiring Starts Here. <br />
-        <strong>EasyRecruit</strong> is an AI-powered job screening system that streamlines the hiring process
+        <strong>EasyRecruit</strong> is an Automated job screening system that streamlines the hiring process
         by analyzing job descriptions and intelligently matching resumes.
         Say goodbye to manual resume screening and hello to faster, smarter hiring decisions.
       </p>
