@@ -1,0 +1,84 @@
+.jd-container {
+    max-width: 900px;
+    margin: auto;
+    padding: 2rem;
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.06);
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  .jd-heading {
+    font-size: 28px;
+    font-weight: 700;
+    margin-bottom: 10px;
+  }
+  
+  .jd-subtext {
+    font-size: 15px;
+    color: #555;
+    margin-bottom: 30px;
+  }
+  
+  .jd-form {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+  
+  .jd-row {
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .jd-field {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .jd-field label {
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+  }
+  
+  .jd-field input,
+  .jd-field textarea {
+    padding: 10px 14px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 15px;
+  }
+  
+  .jd-button {
+    padding: 12px 20px;
+    background-color: #007bff;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    width: fit-content;
+  }
+  
+  .jd-button.secondary {
+    background-color: #28a745;
+  }
+  
+  .jd-divider {
+    text-align: center;
+    margin: 30px 0;
+    font-weight: bold;
+    color: #888;
+  }
+  
+  .jd-upload label {
+    font-weight: 600;
+    margin-bottom: 10px;
+    display: block;
+  }
+  
+  .jd-upload input {
+    margin-bottom: 10px;
+  }
+  
